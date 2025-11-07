@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: '<iframe src="https://dashboards.calitp.org/public/dashboard/a5472b56-562c-49e9-bef1-47bdac6931c7" frameborder="0" width="800" height="600" allowtransparency></iframe>'
   navbar:
     - title: Status
       href: /
